@@ -5,7 +5,7 @@ import CloseIcon from '@mui/icons-material/Close';
 
 // Componentes
 import Navbar from './feature/layout/components/Navbar';
-import Footer from './feature/layout/components/Footer'; 
+import Footer from './feature/layout/components/footer'; 
 import Landing from './feature/layout/components/Landing';
 import Dashboard from './feature/dashboard/Dashboard';
 import Login from './feature/auth/components/Login';
