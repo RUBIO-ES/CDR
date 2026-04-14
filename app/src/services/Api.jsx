@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // URL de tu servidor (Asegúrate de que el servidor esté corriendo en el puerto 5000)
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = 'http://localhost:5000/api';
 
 /**
  * Servicio para manejar todas las peticiones a la API de Atlas
